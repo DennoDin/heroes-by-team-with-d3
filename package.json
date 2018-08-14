@@ -6,5 +6,10 @@
   "repository": "https://github.com/DennoDin/heroes-by-team-with-d3.git",
   "author": "Dustin <dustin.tran@live.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "d3": "^5.5.0",
+    "express": "^4.16.3",
+    "knex": "^0.15.2"
+  }
 }
