@@ -1,0 +1,10 @@
+{
+  "name": "heroes-by-team-with-d3",
+  "version": "1.0.0",
+  "description": "Visualize all heroes selected by Team Secret for the last 50 matches using D3.",
+  "main": "index.js",
+  "repository": "https://github.com/DennoDin/heroes-by-team-with-d3.git",
+  "author": "Dustin <dustin.tran@live.com>",
+  "license": "MIT",
+  "private": false
+}
