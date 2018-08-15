@@ -6,7 +6,7 @@ async function getHeroes() {
 }
 
 
-const MATCHES = 10; //number of matches to get
+const MATCHES = 30; //number of matches to get
 
 async function getSecretLastFifty() {
   const result = await axios.get('https://api.opendota.com/api/teams/1838315/matches');
