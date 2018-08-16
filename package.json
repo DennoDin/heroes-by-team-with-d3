@@ -19,6 +19,8 @@
     "webpack": "^3.12.0"
   },
   "scripts": {
-    "start": "webpack && http-server ./"
+    "start": "http-server ./",
+    "build": "webpack",
+    "heroku-postbuild": "yarn build"
   }
 }
