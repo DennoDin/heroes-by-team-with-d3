@@ -6,7 +6,7 @@ Displays a visualization with D3 of heroes used in the last 30 official matches 
 [Click here to check it out!](https://dota-hero-picks-by-team-d3.herokuapp.com/)
 
 
-![example](img/example.png)
+![example image](img/example.png)
 
 Each circle represents a single hero choice and includes the name and number of times picked. Larger circles signify a large number of picks.
 
