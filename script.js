@@ -4,7 +4,7 @@ async function getHeroes() {
   const result = await axios.get('https://api.opendota.com/api/heroes');
   return result;
 }
-
+module.exports = { getHeroes };
 
 const MATCHES = 30; //number of matches to get
 
